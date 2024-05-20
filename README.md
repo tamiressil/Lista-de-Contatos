@@ -1,8 +1,9 @@
-# React + Vite
+# Lista de Contatos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Criação de  uma lista de contatos onde o usuário possa adicionar, remover e editar informações de contato, como nome, telefone e e-mail. Repositório dedicado a criação de  uma lista de contatos onde o usuário possa adicionar, remover e editar informações de contato, como nome, telefone e e-mail. 
 
-Currently, two official plugins are available:
+https://lista-de-contatos-tawny.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/tamiressil/Lista-de-Contatos/assets/163886976/a65132df-9b67-4f39-a91c-8442e61f2f28)
+
+
